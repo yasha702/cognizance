@@ -2,4 +2,5 @@ add
 subtract
 multiply
 divide
-these are the fundamental operaters
+these are the fundamental operaters we know
+
