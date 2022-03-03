@@ -20,3 +20,4 @@
  OUR TIMMINGS | We are available from 8 am to 9 pm
  APPOINTMENTS | Giving us a prior information by booking an appointment on our website makes it easy to fulfil your services conveniently.
  SOCIAL MEDIA NETWORKS| For more updates on offers and discounts follow us on Instagram and Facebook.
+ <img width="436" alt="p1" src="https://user-images.githubusercontent.com/99642115/156535674-5571751a-8b60-4c23-b314-62e63fa5696e.png">
